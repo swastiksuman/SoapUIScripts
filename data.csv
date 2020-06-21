@@ -1,0 +1,4 @@
+getUsersByPage,2
+getUsersByUserId,3
+addNewUser,Morpheus,leader
+updateUser,Morpheus,associate
